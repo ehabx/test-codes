@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-#test
-print('ehab')
-=======
-print('test')
->>>>>>> Stashed changes
+print('hello')
